@@ -1,0 +1,959 @@
+﻿WOJ;POW;GMI;RODZ;NAZWA;NAZWA_DOD;STAN_NA
+02;;;;DOLNOŚLĄSKIE;województwo;2019-01-01
+02;01;;;bolesławiecki;powiat;2019-01-01
+02;01;01;1;Bolesławiec;gmina miejska;2019-01-01
+02;01;02;2;Bolesławiec;gmina wiejska;2019-01-01
+02;01;03;2;Gromadka;gmina wiejska;2019-01-01
+02;01;04;4;Nowogrodziec;miasto;2019-01-01
+02;01;04;5;Nowogrodziec;obszar wiejski;2019-01-01
+02;01;05;2;Osiecznica;gmina wiejska;2019-01-01
+02;01;06;2;Warta Bolesławiecka;gmina wiejska;2019-01-01
+02;02;;;dzierżoniowski;powiat;2019-01-01
+02;02;01;1;Bielawa;gmina miejska;2019-01-01
+02;02;02;1;Dzierżoniów;gmina miejska;2019-01-01
+02;02;03;4;Pieszyce;miasto;2019-01-01
+02;02;03;5;Pieszyce;obszar wiejski;2019-01-01
+02;02;04;1;Piława Górna;gmina miejska;2019-01-01
+02;02;05;2;Dzierżoniów;gmina wiejska;2019-01-01
+02;02;06;2;Łagiewniki;gmina wiejska;2019-01-01
+02;02;07;4;Niemcza;miasto;2019-01-01
+02;02;07;5;Niemcza;obszar wiejski;2019-01-01
+02;03;;;głogowski;powiat;2019-01-01
+02;03;01;1;Głogów;gmina miejska;2019-01-01
+02;03;02;2;Głogów;gmina wiejska;2019-01-01
+02;03;03;2;Jerzmanowa;gmina wiejska;2019-01-01
+02;03;04;2;Kotla;gmina wiejska;2019-01-01
+02;03;05;2;Pęcław;gmina wiejska;2019-01-01
+02;03;06;2;Żukowice;gmina wiejska;2019-01-01
+02;04;;;górowski;powiat;2019-01-01
+02;04;01;4;Góra;miasto;2019-01-01
+02;04;01;5;Góra;obszar wiejski;2019-01-01
+02;04;02;2;Jemielno;gmina wiejska;2019-01-01
+02;04;03;2;Niechlów;gmina wiejska;2019-01-01
+02;04;04;4;Wąsosz;miasto;2019-01-01
+02;04;04;5;Wąsosz;obszar wiejski;2019-01-01
+02;05;;;jaworski;powiat;2019-01-01
+02;05;01;1;Jawor;gmina miejska;2019-01-01
+02;05;02;4;Bolków;miasto;2019-01-01
+02;05;02;5;Bolków;obszar wiejski;2019-01-01
+02;05;03;2;Męcinka;gmina wiejska;2019-01-01
+02;05;04;2;Mściwojów;gmina wiejska;2019-01-01
+02;05;05;2;Paszowice;gmina wiejska;2019-01-01
+02;05;06;2;Wądroże Wielkie;gmina wiejska;2019-01-01
+02;06;;;jeleniogórski;powiat;2019-01-01
+02;06;01;1;Karpacz;gmina miejska;2019-01-01
+02;06;02;1;Kowary;gmina miejska;2019-01-01
+02;06;03;1;Piechowice;gmina miejska;2019-01-01
+02;06;04;1;Szklarska Poręba;gmina miejska;2019-01-01
+02;06;05;2;Janowice Wielkie;gmina wiejska;2019-01-01
+02;06;06;2;Jeżów Sudecki;gmina wiejska;2019-01-01
+02;06;07;2;Mysłakowice;gmina wiejska;2019-01-01
+02;06;08;2;Podgórzyn;gmina wiejska;2019-01-01
+02;06;09;2;Stara Kamienica;gmina wiejska;2019-01-01
+04;;;;KUJAWSKO-POMORSKIE;województwo;2019-01-01
+04;01;;;aleksandrowski;powiat;2019-01-01
+04;01;01;1;Aleksandrów Kujawski;gmina miejska;2019-01-01
+04;01;02;1;Ciechocinek;gmina miejska;2019-01-01
+04;01;03;1;Nieszawa;gmina miejska;2019-01-01
+04;01;04;2;Aleksandrów Kujawski;gmina wiejska;2019-01-01
+04;01;05;2;Bądkowo;gmina wiejska;2019-01-01
+04;01;06;2;Koneck;gmina wiejska;2019-01-01
+04;01;07;2;Raciążek;gmina wiejska;2019-01-01
+04;01;08;2;Waganiec;gmina wiejska;2019-01-01
+04;01;09;2;Zakrzewo;gmina wiejska;2019-01-01
+04;02;;;brodnicki;powiat;2019-01-01
+04;02;01;1;Brodnica;gmina miejska;2019-01-01
+04;02;02;2;Bobrowo;gmina wiejska;2019-01-01
+04;02;03;2;Brodnica;gmina wiejska;2019-01-01
+04;02;04;2;Brzozie;gmina wiejska;2019-01-01
+04;02;05;4;Górzno;miasto;2019-01-01
+04;02;05;5;Górzno;obszar wiejski;2019-01-01
+04;02;06;2;Bartniczka;gmina wiejska;2019-01-01
+04;02;07;4;Jabłonowo Pomorskie;miasto;2019-01-01
+04;02;07;5;Jabłonowo Pomorskie;obszar wiejski;2019-01-01
+04;02;08;2;Osiek;gmina wiejska;2019-01-01
+04;02;09;2;Świedziebnia;gmina wiejska;2019-01-01
+04;02;10;2;Zbiczno;gmina wiejska;2019-01-01
+04;03;;;bydgoski;powiat;2019-01-01
+04;03;01;2;Białe Błota;gmina wiejska;2019-01-01
+04;03;02;2;Dąbrowa Chełmińska;gmina wiejska;2019-01-01
+04;03;03;2;Dobrcz;gmina wiejska;2019-01-01
+04;03;04;4;Koronowo;miasto;2019-01-01
+04;03;04;5;Koronowo;obszar wiejski;2019-01-01
+04;03;05;2;Nowa Wieś Wielka;gmina wiejska;2019-01-01
+04;03;06;2;Osielsko;gmina wiejska;2019-01-01
+04;03;07;2;Sicienko;gmina wiejska;2019-01-01
+04;03;08;4;Solec Kujawski;miasto;2019-01-01
+04;03;08;5;Solec Kujawski;obszar wiejski;2019-01-01
+04;04;;;chełmiński;powiat;2019-01-01
+04;04;01;1;Chełmno;gmina miejska;2019-01-01
+04;04;02;2;Chełmno;gmina wiejska;2019-01-01
+04;04;03;2;Kijewo Królewskie;gmina wiejska;2019-01-01
+04;04;04;2;Lisewo;gmina wiejska;2019-01-01
+04;04;05;2;Papowo Biskupie;gmina wiejska;2019-01-01
+04;04;06;2;Stolno;gmina wiejska;2019-01-01
+04;04;07;2;Unisław;gmina wiejska;2019-01-01
+04;05;;;golubsko-dobrzyński;powiat;2019-01-01
+04;05;01;1;Golub-Dobrzyń;gmina miejska;2019-01-01
+04;05;02;2;Ciechocin;gmina wiejska;2019-01-01
+04;05;03;2;Golub-Dobrzyń;gmina wiejska;2019-01-01
+04;05;04;4;Kowalewo Pomorskie;miasto;2019-01-01
+04;05;04;5;Kowalewo Pomorskie;obszar wiejski;2019-01-01
+04;05;05;2;Radomin;gmina wiejska;2019-01-01
+04;05;06;2;Zbójno;gmina wiejska;2019-01-01
+04;06;;;grudziądzki;powiat;2019-01-01
+04;06;01;2;Grudziądz;gmina wiejska;2019-01-01
+04;06;02;2;Gruta;gmina wiejska;2019-01-01
+04;06;03;4;Łasin;miasto;2019-01-01
+04;06;03;5;Łasin;obszar wiejski;2019-01-01
+04;06;04;4;Radzyń Chełmiński;miasto;2019-01-01
+04;06;04;5;Radzyń Chełmiński;obszar wiejski;2019-01-01
+04;06;05;2;Rogóźno;gmina wiejska;2019-01-01
+04;06;06;2;Świecie nad Osą;gmina wiejska;2019-01-01
+04;07;;;inowrocławski;powiat;2019-01-01
+04;07;01;1;Inowrocław;gmina miejska;2019-01-01
+04;07;02;2;Dąbrowa Biskupia;gmina wiejska;2019-01-01
+04;07;03;4;Gniewkowo;miasto;2019-01-01
+04;07;03;5;Gniewkowo;obszar wiejski;2019-01-01
+04;07;04;2;Inowrocław;gmina wiejska;2019-01-01
+04;07;05;4;Janikowo;miasto;2019-01-01
+04;07;05;5;Janikowo;obszar wiejski;2019-01-01
+04;07;06;4;Kruszwica;miasto;2019-01-01
+04;07;06;5;Kruszwica;obszar wiejski;2019-01-01
+04;07;07;4;Pakość;miasto;2019-01-01
+04;07;07;5;Pakość;obszar wiejski;2019-01-01
+04;07;08;2;Rojewo;gmina wiejska;2019-01-01
+04;07;09;2;Złotniki Kujawskie;gmina wiejska;2019-01-01
+04;08;;;lipnowski;powiat;2019-01-01
+04;08;01;1;Lipno;gmina miejska;2019-01-01
+04;08;02;2;Bobrowniki;gmina wiejska;2019-01-01
+04;08;03;2;Chrostkowo;gmina wiejska;2019-01-01
+04;08;04;4;Dobrzyń nad Wisłą;miasto;2019-01-01
+04;08;04;5;Dobrzyń nad Wisłą;obszar wiejski;2019-01-01
+04;08;05;2;Kikół;gmina wiejska;2019-01-01
+04;08;06;2;Lipno;gmina wiejska;2019-01-01
+04;08;07;4;Skępe;miasto;2019-01-01
+04;08;07;5;Skępe;obszar wiejski;2019-01-01
+04;08;08;2;Tłuchowo;gmina wiejska;2019-01-01
+04;08;09;2;Wielgie;gmina wiejska;2019-01-01
+04;09;;;mogileński;powiat;2019-01-01
+04;09;01;2;Dąbrowa;gmina wiejska;2019-01-01
+04;09;02;2;Jeziora Wielkie;gmina wiejska;2019-01-01
+04;09;03;4;Mogilno;miasto;2019-01-01
+06;;;;LUBELSKIE;województwo;2019-01-01
+06;01;;;bialski;powiat;2019-01-01
+06;01;01;1;Międzyrzec Podlaski;gmina miejska;2019-01-01
+06;01;02;1;Terespol;gmina miejska;2019-01-01
+06;01;03;2;Biała Podlaska;gmina wiejska;2019-01-01
+06;01;04;2;Drelów;gmina wiejska;2019-01-01
+06;01;05;2;Janów Podlaski;gmina wiejska;2019-01-01
+06;01;06;2;Kodeń;gmina wiejska;2019-01-01
+06;01;07;2;Konstantynów;gmina wiejska;2019-01-01
+06;01;08;2;Leśna Podlaska;gmina wiejska;2019-01-01
+06;01;09;2;Łomazy;gmina wiejska;2019-01-01
+06;01;10;2;Międzyrzec Podlaski;gmina wiejska;2019-01-01
+06;01;11;2;Piszczac;gmina wiejska;2019-01-01
+06;01;12;2;Rokitno;gmina wiejska;2019-01-01
+06;01;13;2;Rossosz;gmina wiejska;2019-01-01
+06;01;14;2;Sławatycze;gmina wiejska;2019-01-01
+06;01;15;2;Sosnówka;gmina wiejska;2019-01-01
+06;01;16;2;Terespol;gmina wiejska;2019-01-01
+06;01;17;2;Tuczna;gmina wiejska;2019-01-01
+06;01;18;2;Wisznice;gmina wiejska;2019-01-01
+06;01;19;2;Zalesie;gmina wiejska;2019-01-01
+06;02;;;biłgorajski;powiat;2019-01-01
+06;02;01;1;Biłgoraj;gmina miejska;2019-01-01
+06;02;02;2;Aleksandrów;gmina wiejska;2019-01-01
+06;02;03;2;Biłgoraj;gmina wiejska;2019-01-01
+06;02;04;2;Biszcza;gmina wiejska;2019-01-01
+06;02;05;4;Frampol;miasto;2019-01-01
+06;02;05;5;Frampol;obszar wiejski;2019-01-01
+06;02;06;2;Goraj;gmina wiejska;2019-01-01
+06;02;07;4;Józefów;miasto;2019-01-01
+06;02;07;5;Józefów;obszar wiejski;2019-01-01
+06;02;08;2;Księżpol;gmina wiejska;2019-01-01
+06;02;09;2;Łukowa;gmina wiejska;2019-01-01
+06;02;10;2;Obsza;gmina wiejska;2019-01-01
+06;02;11;2;Potok Górny;gmina wiejska;2019-01-01
+06;02;12;4;Tarnogród;miasto;2019-01-01
+06;02;12;5;Tarnogród;obszar wiejski;2019-01-01
+06;02;13;2;Tereszpol;gmina wiejska;2019-01-01
+06;02;14;2;Turobin;gmina wiejska;2019-01-01
+06;03;;;chełmski;powiat;2019-01-01
+06;03;01;1;Rejowiec Fabryczny;gmina miejska;2019-01-01
+06;03;02;2;Białopole;gmina wiejska;2019-01-01
+06;03;03;2;Chełm;gmina wiejska;2019-01-01
+06;03;04;2;Dorohusk;gmina wiejska;2019-01-01
+06;03;05;2;Dubienka;gmina wiejska;2019-01-01
+06;03;06;2;Kamień;gmina wiejska;2019-01-01
+06;03;07;2;Leśniowice;gmina wiejska;2019-01-01
+06;03;08;2;Rejowiec Fabryczny;gmina wiejska;2019-01-01
+06;03;09;2;Ruda-Huta;gmina wiejska;2019-01-01
+06;03;10;2;Sawin;gmina wiejska;2019-01-01
+06;03;11;4;Siedliszcze;miasto;2019-01-01
+06;03;11;5;Siedliszcze;obszar wiejski;2019-01-01
+06;03;12;2;Wierzbica;gmina wiejska;2019-01-01
+06;03;13;2;Wojsławice;gmina wiejska;2019-01-01
+06;03;14;2;Żmudź;gmina wiejska;2019-01-01
+06;03;15;4;Rejowiec;miasto;2019-01-01
+06;03;15;5;Rejowiec;obszar wiejski;2019-01-01
+06;04;;;hrubieszowski;powiat;2019-01-01
+06;04;01;1;Hrubieszów;gmina miejska;2019-01-01
+06;04;02;2;Dołhobyczów;gmina wiejska;2019-01-01
+06;04;03;2;Horodło;gmina wiejska;2019-01-01
+06;04;04;2;Hrubieszów;gmina wiejska;2019-01-01
+06;04;05;2;Mircze;gmina wiejska;2019-01-01
+06;04;06;2;Trzeszczany;gmina wiejska;2019-01-01
+06;04;07;2;Uchanie;gmina wiejska;2019-01-01
+06;04;08;2;Werbkowice;gmina wiejska;2019-01-01
+06;05;;;janowski;powiat;2019-01-01
+06;05;01;2;Batorz;gmina wiejska;2019-01-01
+06;05;02;2;Chrzanów;gmina wiejska;2019-01-01
+06;05;03;2;Dzwola;gmina wiejska;2019-01-01
+06;05;04;2;Godziszów;gmina wiejska;2019-01-01
+06;05;05;4;Janów Lubelski;miasto;2019-01-01
+06;05;05;5;Janów Lubelski;obszar wiejski;2019-01-01
+06;05;06;4;Modliborzyce;miasto;2019-01-01
+06;05;06;5;Modliborzyce;obszar wiejski;2019-01-01
+06;05;07;2;Potok Wielki;gmina wiejska;2019-01-01
+06;06;;;krasnostawski;powiat;2019-01-01
+06;06;01;1;Krasnystaw;gmina miejska;2019-01-01
+06;06;02;2;Fajsławice;gmina wiejska;2019-01-01
+06;06;03;2;Gorzków;gmina wiejska;2019-01-01
+06;06;04;2;Izbica;gmina wiejska;2019-01-01
+06;06;05;2;Krasnystaw;gmina wiejska;2019-01-01
+06;06;06;2;Kraśniczyn;gmina wiejska;2019-01-01
+06;06;07;2;Łopiennik Górny;gmina wiejska;2019-01-01
+06;06;09;2;Rudnik;gmina wiejska;2019-01-01
+06;06;10;2;Siennica Różana;gmina wiejska;2019-01-01
+06;06;11;2;Żółkiewka;gmina wiejska;2019-01-01
+08;;;;LUBUSKIE;województwo;2019-01-01
+08;01;;;gorzowski;powiat;2019-01-01
+08;01;01;1;Kostrzyn nad Odrą;gmina miejska;2019-01-01
+08;01;02;2;Bogdaniec;gmina wiejska;2019-01-01
+08;01;03;2;Deszczno;gmina wiejska;2019-01-01
+08;01;04;2;Kłodawa;gmina wiejska;2019-01-01
+08;01;05;2;Lubiszyn;gmina wiejska;2019-01-01
+08;01;06;2;Santok;gmina wiejska;2019-01-01
+08;01;07;4;Witnica;miasto;2019-01-01
+08;01;07;5;Witnica;obszar wiejski;2019-01-01
+08;02;;;krośnieński;powiat;2019-01-01
+08;02;01;1;Gubin;gmina miejska;2019-01-01
+08;02;02;2;Bobrowice;gmina wiejska;2019-01-01
+08;02;03;2;Bytnica;gmina wiejska;2019-01-01
+08;02;04;2;Dąbie;gmina wiejska;2019-01-01
+08;02;05;2;Gubin;gmina wiejska;2019-01-01
+08;02;06;4;Krosno Odrzańskie;miasto;2019-01-01
+08;02;06;5;Krosno Odrzańskie;obszar wiejski;2019-01-01
+08;02;07;2;Maszewo;gmina wiejska;2019-01-01
+08;03;;;międzyrzecki;powiat;2019-01-01
+08;03;01;2;Bledzew;gmina wiejska;2019-01-01
+08;03;02;4;Międzyrzecz;miasto;2019-01-01
+08;03;02;5;Międzyrzecz;obszar wiejski;2019-01-01
+08;03;03;2;Przytoczna;gmina wiejska;2019-01-01
+08;03;04;2;Pszczew;gmina wiejska;2019-01-01
+08;03;05;4;Skwierzyna;miasto;2019-01-01
+08;03;05;5;Skwierzyna;obszar wiejski;2019-01-01
+08;03;06;4;Trzciel;miasto;2019-01-01
+08;03;06;5;Trzciel;obszar wiejski;2019-01-01
+08;04;;;nowosolski;powiat;2019-01-01
+08;04;01;1;Nowa Sól;gmina miejska;2019-01-01
+08;04;02;4;Bytom Odrzański;miasto;2019-01-01
+08;04;02;5;Bytom Odrzański;obszar wiejski;2019-01-01
+08;04;03;2;Kolsko;gmina wiejska;2019-01-01
+08;04;04;4;Kożuchów;miasto;2019-01-01
+08;04;04;5;Kożuchów;obszar wiejski;2019-01-01
+08;04;05;2;Nowa Sól;gmina wiejska;2019-01-01
+08;04;06;4;Nowe Miasteczko;miasto;2019-01-01
+08;04;06;5;Nowe Miasteczko;obszar wiejski;2019-01-01
+08;04;07;4;Otyń;miasto;2019-01-01
+08;04;07;5;Otyń;obszar wiejski;2019-01-01
+08;04;08;2;Siedlisko;gmina wiejska;2019-01-01
+08;05;;;słubicki;powiat;2019-01-01
+08;05;01;4;Cybinka;miasto;2019-01-01
+08;05;01;5;Cybinka;obszar wiejski;2019-01-01
+08;05;02;2;Górzyca;gmina wiejska;2019-01-01
+08;05;03;4;Ośno Lubuskie;miasto;2019-01-01
+08;05;03;5;Ośno Lubuskie;obszar wiejski;2019-01-01
+08;05;04;4;Rzepin;miasto;2019-01-01
+08;05;04;5;Rzepin;obszar wiejski;2019-01-01
+08;05;05;4;Słubice;miasto;2019-01-01
+08;05;05;5;Słubice;obszar wiejski;2019-01-01
+08;06;;;strzelecko-drezdenecki;powiat;2019-01-01
+08;06;01;4;Dobiegniew;miasto;2019-01-01
+08;06;01;5;Dobiegniew;obszar wiejski;2019-01-01
+08;06;02;4;Drezdenko;miasto;2019-01-01
+08;06;02;5;Drezdenko;obszar wiejski;2019-01-01
+08;06;03;2;Stare Kurowo;gmina wiejska;2019-01-01
+08;06;04;4;Strzelce Krajeńskie;miasto;2019-01-01
+10;;;;ŁÓDZKIE;województwo;2019-01-01
+10;01;;;bełchatowski;powiat;2019-01-01
+10;01;01;1;Bełchatów;gmina miejska;2019-01-01
+10;01;02;2;Bełchatów;gmina wiejska;2019-01-01
+10;01;03;2;Drużbice;gmina wiejska;2019-01-01
+10;01;04;2;Kleszczów;gmina wiejska;2019-01-01
+10;01;05;2;Kluki;gmina wiejska;2019-01-01
+10;01;06;2;Rusiec;gmina wiejska;2019-01-01
+10;01;07;2;Szczerców;gmina wiejska;2019-01-01
+10;01;08;4;Zelów;miasto;2019-01-01
+10;01;08;5;Zelów;obszar wiejski;2019-01-01
+10;02;;;kutnowski;powiat;2019-01-01
+10;02;01;1;Kutno;gmina miejska;2019-01-01
+10;02;02;2;Bedlno;gmina wiejska;2019-01-01
+10;02;03;2;Dąbrowice;gmina wiejska;2019-01-01
+10;02;04;4;Krośniewice;miasto;2019-01-01
+10;02;04;5;Krośniewice;obszar wiejski;2019-01-01
+10;02;05;2;Krzyżanów;gmina wiejska;2019-01-01
+10;02;06;2;Kutno;gmina wiejska;2019-01-01
+10;02;07;2;Łanięta;gmina wiejska;2019-01-01
+10;02;08;2;Nowe Ostrowy;gmina wiejska;2019-01-01
+10;02;09;2;Oporów;gmina wiejska;2019-01-01
+10;02;10;2;Strzelce;gmina wiejska;2019-01-01
+10;02;11;4;Żychlin;miasto;2019-01-01
+10;02;11;5;Żychlin;obszar wiejski;2019-01-01
+10;03;;;łaski;powiat;2019-01-01
+10;03;01;2;Buczek;gmina wiejska;2019-01-01
+10;03;02;4;Łask;miasto;2019-01-01
+10;03;02;5;Łask;obszar wiejski;2019-01-01
+10;03;03;2;Sędziejowice;gmina wiejska;2019-01-01
+12;;;;MAŁOPOLSKIE;województwo;2019-01-01
+12;01;;;bocheński;powiat;2019-01-01
+12;01;01;1;Bochnia;gmina miejska;2019-01-01
+12;01;02;2;Bochnia;gmina wiejska;2019-01-01
+12;01;03;2;Drwinia;gmina wiejska;2019-01-01
+12;01;04;2;Lipnica Murowana;gmina wiejska;2019-01-01
+12;01;05;2;Łapanów;gmina wiejska;2019-01-01
+12;01;06;4;Nowy Wiśnicz;miasto;2019-01-01
+12;01;06;5;Nowy Wiśnicz;obszar wiejski;2019-01-01
+12;01;07;2;Rzezawa;gmina wiejska;2019-01-01
+12;01;08;2;Trzciana;gmina wiejska;2019-01-01
+12;01;09;2;Żegocina;gmina wiejska;2019-01-01
+12;02;;;brzeski;powiat;2019-01-01
+12;02;01;2;Borzęcin;gmina wiejska;2019-01-01
+12;02;02;4;Brzesko;miasto;2019-01-01
+12;02;02;5;Brzesko;obszar wiejski;2019-01-01
+12;02;03;4;Czchów;miasto;2019-01-01
+12;02;03;5;Czchów;obszar wiejski;2019-01-01
+12;02;04;2;Dębno;gmina wiejska;2019-01-01
+12;02;05;2;Gnojnik;gmina wiejska;2019-01-01
+12;02;06;2;Iwkowa;gmina wiejska;2019-01-01
+12;02;07;2;Szczurowa;gmina wiejska;2019-01-01
+12;03;;;chrzanowski;powiat;2019-01-01
+12;03;01;4;Alwernia;miasto;2019-01-01
+12;03;01;5;Alwernia;obszar wiejski;2019-01-01
+12;03;02;2;Babice;gmina wiejska;2019-01-01
+12;03;03;4;Chrzanów;miasto;2019-01-01
+12;03;03;5;Chrzanów;obszar wiejski;2019-01-01
+12;03;04;4;Libiąż;miasto;2019-01-01
+12;03;04;5;Libiąż;obszar wiejski;2019-01-01
+12;03;05;4;Trzebinia;miasto;2019-01-01
+12;03;05;5;Trzebinia;obszar wiejski;2019-01-01
+12;04;;;dąbrowski;powiat;2019-01-01
+12;04;01;2;Bolesław;gmina wiejska;2019-01-01
+12;04;02;4;Dąbrowa Tarnowska;miasto;2019-01-01
+12;04;02;5;Dąbrowa Tarnowska;obszar wiejski;2019-01-01
+12;04;03;2;Gręboszów;gmina wiejska;2019-01-01
+12;04;04;2;Mędrzechów;gmina wiejska;2019-01-01
+12;04;05;2;Olesno;gmina wiejska;2019-01-01
+12;04;06;2;Radgoszcz;gmina wiejska;2019-01-01
+12;04;07;4;Szczucin;miasto;2019-01-01
+12;04;07;5;Szczucin;obszar wiejski;2019-01-01
+12;05;;;gorlicki;powiat;2019-01-01
+12;05;01;1;Gorlice;gmina miejska;2019-01-01
+12;05;02;4;Biecz;miasto;2019-01-01
+12;05;02;5;Biecz;obszar wiejski;2019-01-01
+12;05;03;4;Bobowa;miasto;2019-01-01
+12;05;03;5;Bobowa;obszar wiejski;2019-01-01
+12;05;04;2;Gorlice;gmina wiejska;2019-01-01
+12;05;05;2;Lipinki;gmina wiejska;2019-01-01
+12;05;06;2;Łużna;gmina wiejska;2019-01-01
+12;05;07;2;Moszczenica;gmina wiejska;2019-01-01
+12;05;08;2;Ropa;gmina wiejska;2019-01-01
+14;;;;MAZOWIECKIE;województwo;2019-01-01
+14;01;;;białobrzeski;powiat;2019-01-01
+14;01;01;4;Białobrzegi;miasto;2019-01-01
+14;01;01;5;Białobrzegi;obszar wiejski;2019-01-01
+14;01;02;2;Promna;gmina wiejska;2019-01-01
+14;01;03;2;Radzanów;gmina wiejska;2019-01-01
+14;01;04;2;Stara Błotnica;gmina wiejska;2019-01-01
+14;01;05;2;Stromiec;gmina wiejska;2019-01-01
+14;01;06;4;Wyśmierzyce;miasto;2019-01-01
+14;01;06;5;Wyśmierzyce;obszar wiejski;2019-01-01
+14;02;;;ciechanowski;powiat;2019-01-01
+14;02;01;1;Ciechanów;gmina miejska;2019-01-01
+14;02;02;2;Ciechanów;gmina wiejska;2019-01-01
+14;02;03;4;Glinojeck;miasto;2019-01-01
+14;02;03;5;Glinojeck;obszar wiejski;2019-01-01
+14;02;04;2;Gołymin-Ośrodek;gmina wiejska;2019-01-01
+14;02;05;2;Grudusk;gmina wiejska;2019-01-01
+14;02;06;2;Ojrzeń;gmina wiejska;2019-01-01
+14;02;07;2;Opinogóra Górna;gmina wiejska;2019-01-01
+14;02;08;2;Regimin;gmina wiejska;2019-01-01
+14;02;09;2;Sońsk;gmina wiejska;2019-01-01
+14;03;;;garwoliński;powiat;2019-01-01
+14;03;01;1;Garwolin;gmina miejska;2019-01-01
+14;03;02;1;Łaskarzew;gmina miejska;2019-01-01
+14;03;03;2;Borowie;gmina wiejska;2019-01-01
+14;03;04;2;Garwolin;gmina wiejska;2019-01-01
+14;03;05;2;Górzno;gmina wiejska;2019-01-01
+14;03;06;2;Łaskarzew;gmina wiejska;2019-01-01
+14;03;07;2;Maciejowice;gmina wiejska;2019-01-01
+14;03;08;2;Miastków Kościelny;gmina wiejska;2019-01-01
+14;03;09;2;Parysów;gmina wiejska;2019-01-01
+14;03;10;4;Pilawa;miasto;2019-01-01
+14;03;10;5;Pilawa;obszar wiejski;2019-01-01
+14;03;11;2;Sobolew;gmina wiejska;2019-01-01
+14;03;12;2;Trojanów;gmina wiejska;2019-01-01
+14;03;13;2;Wilga;gmina wiejska;2019-01-01
+14;03;14;4;Żelechów;miasto;2019-01-01
+14;03;14;5;Żelechów;obszar wiejski;2019-01-01
+14;04;;;gostyniński;powiat;2019-01-01
+14;04;01;1;Gostynin;gmina miejska;2019-01-01
+14;04;02;2;Gostynin;gmina wiejska;2019-01-01
+14;04;03;2;Pacyna;gmina wiejska;2019-01-01
+14;04;04;4;Sanniki;miasto;2019-01-01
+14;04;04;5;Sanniki;obszar wiejski;2019-01-01
+14;04;05;2;Szczawin Kościelny;gmina wiejska;2019-01-01
+14;05;;;grodziski;powiat;2019-01-01
+14;05;01;1;Milanówek;gmina miejska;2019-01-01
+14;05;02;1;Podkowa Leśna;gmina miejska;2019-01-01
+14;05;03;2;Baranów;gmina wiejska;2019-01-01
+14;05;04;4;Grodzisk Mazowiecki;miasto;2019-01-01
+14;05;04;5;Grodzisk Mazowiecki;obszar wiejski;2019-01-01
+14;05;05;2;Jaktorów;gmina wiejska;2019-01-01
+14;05;06;2;Żabia Wola;gmina wiejska;2019-01-01
+14;06;;;grójecki;powiat;2019-01-01
+14;06;01;2;Belsk Duży;gmina wiejska;2019-01-01
+14;06;02;2;Błędów;gmina wiejska;2019-01-01
+14;06;03;2;Chynów;gmina wiejska;2019-01-01
+14;06;04;2;Goszczyn;gmina wiejska;2019-01-01
+14;06;05;4;Grójec;miasto;2019-01-01
+14;06;05;5;Grójec;obszar wiejski;2019-01-01
+14;06;06;2;Jasieniec;gmina wiejska;2019-01-01
+14;06;07;4;Mogielnica;miasto;2019-01-01
+14;06;07;5;Mogielnica;obszar wiejski;2019-01-01
+14;06;08;4;Nowe Miasto nad Pilicą;miasto;2019-01-01
+14;06;08;5;Nowe Miasto nad Pilicą;obszar wiejski;2019-01-01
+14;06;09;2;Pniewy;gmina wiejska;2019-01-01
+14;06;11;4;Warka;miasto;2019-01-01
+14;06;11;5;Warka;obszar wiejski;2019-01-01
+14;07;;;kozienicki;powiat;2019-01-01
+14;07;01;2;Garbatka-Letnisko;gmina wiejska;2019-01-01
+14;07;02;2;Głowaczów;gmina wiejska;2019-01-01
+14;07;03;2;Gniewoszów;gmina wiejska;2019-01-01
+14;07;04;2;Grabów nad Pilicą;gmina wiejska;2019-01-01
+14;07;05;4;Kozienice;miasto;2019-01-01
+14;07;05;5;Kozienice;obszar wiejski;2019-01-01
+14;07;06;2;Magnuszew;gmina wiejska;2019-01-01
+14;07;07;2;Sieciechów;gmina wiejska;2019-01-01
+14;08;;;legionowski;powiat;2019-01-01
+14;08;01;1;Legionowo;gmina miejska;2019-01-01
+14;08;02;2;Jabłonna;gmina wiejska;2019-01-01
+14;08;03;2;Nieporęt;gmina wiejska;2019-01-01
+14;08;04;4;Serock;miasto;2019-01-01
+14;08;04;5;Serock;obszar wiejski;2019-01-01
+14;08;05;2;Wieliszew;gmina wiejska;2019-01-01
+14;09;;;lipski;powiat;2019-01-01
+14;09;01;2;Chotcza;gmina wiejska;2019-01-01
+14;09;02;2;Ciepielów;gmina wiejska;2019-01-01
+14;09;03;4;Lipsko;miasto;2019-01-01
+14;09;03;5;Lipsko;obszar wiejski;2019-01-01
+14;09;04;2;Rzeczniów;gmina wiejska;2019-01-01
+14;09;05;2;Sienno;gmina wiejska;2019-01-01
+14;09;06;2;Solec nad Wisłą;gmina wiejska;2019-01-01
+14;10;;;łosicki;powiat;2019-01-01
+14;10;01;2;Huszlew;gmina wiejska;2019-01-01
+14;10;02;4;Łosice;miasto;2019-01-01
+14;10;02;5;Łosice;obszar wiejski;2019-01-01
+14;10;03;2;Olszanka;gmina wiejska;2019-01-01
+14;10;04;2;Platerów;gmina wiejska;2019-01-01
+14;10;05;2;Sarnaki;gmina wiejska;2019-01-01
+14;10;06;2;Stara Kornica;gmina wiejska;2019-01-01
+14;11;;;makowski;powiat;2019-01-01
+14;11;01;1;Maków Mazowiecki;gmina miejska;2019-01-01
+14;11;02;2;Czerwonka;gmina wiejska;2019-01-01
+14;11;03;2;Karniewo;gmina wiejska;2019-01-01
+14;11;04;2;Krasnosielc;gmina wiejska;2019-01-01
+14;11;05;2;Młynarze;gmina wiejska;2019-01-01
+14;11;06;2;Płoniawy-Bramura;gmina wiejska;2019-01-01
+14;11;07;4;Różan;miasto;2019-01-01
+14;11;07;5;Różan;obszar wiejski;2019-01-01
+14;11;08;2;Rzewnie;gmina wiejska;2019-01-01
+14;11;09;2;Sypniewo;gmina wiejska;2019-01-01
+14;11;10;2;Szelków;gmina wiejska;2019-01-01
+14;12;;;miński;powiat;2019-01-01
+14;12;01;1;Mińsk Mazowiecki;gmina miejska;2019-01-01
+14;12;04;2;Cegłów;gmina wiejska;2019-01-01
+14;12;05;2;Dębe Wielkie;gmina wiejska;2019-01-01
+14;12;06;2;Dobre;gmina wiejska;2019-01-01
+14;12;07;4;Halinów;miasto;2019-01-01
+14;12;07;5;Halinów;obszar wiejski;2019-01-01
+14;12;08;2;Jakubów;gmina wiejska;2019-01-01
+14;12;09;4;Kałuszyn;miasto;2019-01-01
+14;12;09;5;Kałuszyn;obszar wiejski;2019-01-01
+14;12;10;2;Latowicz;gmina wiejska;2019-01-01
+14;12;11;2;Mińsk Mazowiecki;gmina wiejska;2019-01-01
+14;12;12;4;Mrozy;miasto;2019-01-01
+14;12;12;5;Mrozy;obszar wiejski;2019-01-01
+14;12;13;2;Siennica;gmina wiejska;2019-01-01
+14;12;14;2;Stanisławów;gmina wiejska;2019-01-01
+14;12;15;1;Sulejówek;gmina miejska;2019-01-01
+14;13;;;mławski;powiat;2019-01-01
+14;13;01;1;Mława;gmina miejska;2019-01-01
+14;13;02;2;Dzierzgowo;gmina wiejska;2019-01-01
+14;13;03;2;Lipowiec Kościelny;gmina wiejska;2019-01-01
+14;13;04;2;Radzanów;gmina wiejska;2019-01-01
+16;;;;OPOLSKIE;województwo;2019-01-01
+16;01;;;brzeski;powiat;2019-01-01
+16;01;01;1;Brzeg;gmina miejska;2019-01-01
+16;01;02;2;Skarbimierz;gmina wiejska;2019-01-01
+16;01;03;4;Grodków;miasto;2019-01-01
+16;01;03;5;Grodków;obszar wiejski;2019-01-01
+16;01;04;4;Lewin Brzeski;miasto;2019-01-01
+16;01;04;5;Lewin Brzeski;obszar wiejski;2019-01-01
+16;01;05;2;Lubsza;gmina wiejska;2019-01-01
+16;01;06;2;Olszanka;gmina wiejska;2019-01-01
+16;02;;;głubczycki;powiat;2019-01-01
+16;02;01;4;Baborów;miasto;2019-01-01
+16;02;01;5;Baborów;obszar wiejski;2019-01-01
+16;02;02;2;Branice;gmina wiejska;2019-01-01
+16;02;03;4;Głubczyce;miasto;2019-01-01
+16;02;03;5;Głubczyce;obszar wiejski;2019-01-01
+16;02;04;4;Kietrz;miasto;2019-01-01
+16;02;04;5;Kietrz;obszar wiejski;2019-01-01
+16;03;;;kędzierzyńsko-kozielski;powiat;2019-01-01
+16;03;01;1;Kędzierzyn-Koźle;gmina miejska;2019-01-01
+16;03;02;2;Bierawa;gmina wiejska;2019-01-01
+16;03;03;2;Cisek;gmina wiejska;2019-01-01
+16;03;04;2;Pawłowiczki;gmina wiejska;2019-01-01
+16;03;05;2;Polska Cerekiew;gmina wiejska;2019-01-01
+16;03;06;2;Reńska Wieś;gmina wiejska;2019-01-01
+16;04;;;kluczborski;powiat;2019-01-01
+16;04;01;4;Byczyna;miasto;2019-01-01
+16;04;01;5;Byczyna;obszar wiejski;2019-01-01
+16;04;02;4;Kluczbork;miasto;2019-01-01
+16;04;02;5;Kluczbork;obszar wiejski;2019-01-01
+16;04;03;2;Lasowice Wielkie;gmina wiejska;2019-01-01
+16;04;04;4;Wołczyn;miasto;2019-01-01
+16;04;04;5;Wołczyn;obszar wiejski;2019-01-01
+16;05;;;krapkowicki;powiat;2019-01-01
+16;05;01;4;Gogolin;miasto;2019-01-01
+16;05;01;5;Gogolin;obszar wiejski;2019-01-01
+16;05;02;4;Krapkowice;miasto;2019-01-01
+16;05;02;5;Krapkowice;obszar wiejski;2019-01-01
+16;05;03;2;Strzeleczki;gmina wiejska;2019-01-01
+16;05;04;2;Walce;gmina wiejska;2019-01-01
+16;05;05;4;Zdzieszowice;miasto;2019-01-01
+16;05;05;5;Zdzieszowice;obszar wiejski;2019-01-01
+16;06;;;namysłowski;powiat;2019-01-01
+16;06;01;2;Domaszowice;gmina wiejska;2019-01-01
+16;06;02;4;Namysłów;miasto;2019-01-01
+16;06;02;5;Namysłów;obszar wiejski;2019-01-01
+16;06;03;2;Pokój;gmina wiejska;2019-01-01
+16;06;04;2;Świerczów;gmina wiejska;2019-01-01
+16;06;05;2;Wilków;gmina wiejska;2019-01-01
+16;07;;;nyski;powiat;2019-01-01
+16;07;01;4;Głuchołazy;miasto;2019-01-01
+16;07;01;5;Głuchołazy;obszar wiejski;2019-01-01
+16;07;02;2;Kamiennik;gmina wiejska;2019-01-01
+16;07;03;4;Korfantów;miasto;2019-01-01
+16;07;03;5;Korfantów;obszar wiejski;2019-01-01
+16;07;04;2;Łambinowice;gmina wiejska;2019-01-01
+16;07;05;4;Nysa;miasto;2019-01-01
+16;07;05;5;Nysa;obszar wiejski;2019-01-01
+16;07;06;4;Otmuchów;miasto;2019-01-01
+16;07;06;5;Otmuchów;obszar wiejski;2019-01-01
+16;07;07;4;Paczków;miasto;2019-01-01
+16;07;07;5;Paczków;obszar wiejski;2019-01-01
+16;07;08;2;Pakosławice;gmina wiejska;2019-01-01
+16;07;09;2;Skoroszyce;gmina wiejska;2019-01-01
+16;08;;;oleski;powiat;2019-01-01
+16;08;01;4;Dobrodzień;miasto;2019-01-01
+16;08;01;5;Dobrodzień;obszar wiejski;2019-01-01
+16;08;02;4;Gorzów Śląski;miasto;2019-01-01
+16;08;02;5;Gorzów Śląski;obszar wiejski;2019-01-01
+16;08;03;4;Olesno;miasto;2019-01-01
+16;08;03;5;Olesno;obszar wiejski;2019-01-01
+16;08;04;4;Praszka;miasto;2019-01-01
+16;08;04;5;Praszka;obszar wiejski;2019-01-01
+16;08;05;2;Radłów;gmina wiejska;2019-01-01
+16;08;06;2;Rudniki;gmina wiejska;2019-01-01
+16;08;07;2;Zębowice;gmina wiejska;2019-01-01
+16;09;;;opolski;powiat;2019-01-01
+16;09;01;2;Chrząstowice;gmina wiejska;2019-01-01
+16;09;02;2;Dąbrowa;gmina wiejska;2019-01-01
+16;09;03;2;Dobrzeń Wielki;gmina wiejska;2019-01-01
+16;09;04;2;Komprachcice;gmina wiejska;2019-01-01
+16;09;05;2;Łubniany;gmina wiejska;2019-01-01
+16;09;06;2;Murów;gmina wiejska;2019-01-01
+16;09;07;4;Niemodlin;miasto;2019-01-01
+16;09;07;5;Niemodlin;obszar wiejski;2019-01-01
+16;09;08;4;Ozimek;miasto;2019-01-01
+16;09;08;5;Ozimek;obszar wiejski;2019-01-01
+16;09;09;2;Popielów;gmina wiejska;2019-01-01
+16;09;10;4;Prószków;miasto;2019-01-01
+16;09;10;5;Prószków;obszar wiejski;2019-01-01
+16;09;11;2;Tarnów Opolski;gmina wiejska;2019-01-01
+16;09;12;4;Tułowice;miasto;2019-01-01
+16;09;12;5;Tułowice;obszar wiejski;2019-01-01
+16;09;13;2;Turawa;gmina wiejska;2019-01-01
+16;10;;;prudnicki;powiat;2019-01-01
+16;10;01;4;Biała;miasto;2019-01-01
+16;10;01;5;Biała;obszar wiejski;2019-01-01
+16;10;02;4;Głogówek;miasto;2019-01-01
+16;10;02;5;Głogówek;obszar wiejski;2019-01-01
+16;10;03;2;Lubrza;gmina wiejska;2019-01-01
+16;10;04;4;Prudnik;miasto;2019-01-01
+16;10;04;5;Prudnik;obszar wiejski;2019-01-01
+16;11;;;strzelecki;powiat;2019-01-01
+16;11;01;2;Izbicko;gmina wiejska;2019-01-01
+16;11;02;2;Jemielnica;gmina wiejska;2019-01-01
+16;11;03;4;Kolonowskie;miasto;2019-01-01
+16;11;03;5;Kolonowskie;obszar wiejski;2019-01-01
+16;11;04;4;Leśnica;miasto;2019-01-01
+16;11;04;5;Leśnica;obszar wiejski;2019-01-01
+16;11;05;4;Strzelce Opolskie;miasto;2019-01-01
+16;11;05;5;Strzelce Opolskie;obszar wiejski;2019-01-01
+16;11;06;4;Ujazd;miasto;2019-01-01
+16;11;06;5;Ujazd;obszar wiejski;2019-01-01
+16;11;07;4;Zawadzkie;miasto;2019-01-01
+16;11;07;5;Zawadzkie;obszar wiejski;2019-01-01
+16;61;;;Opole;miasto na prawach powiatu;2019-01-01
+16;61;01;1;Opole;gmina miejska;2019-01-01
+18;;;;PODKARPACKIE;województwo;2019-01-01
+18;01;;;bieszczadzki;powiat;2019-01-01
+18;01;03;2;Czarna;gmina wiejska;2019-01-01
+18;01;05;2;Lutowiska;gmina wiejska;2019-01-01
+18;01;08;4;Ustrzyki Dolne;miasto;2019-01-01
+18;01;08;5;Ustrzyki Dolne;obszar wiejski;2019-01-01
+18;02;;;brzozowski;powiat;2019-01-01
+18;02;01;4;Brzozów;miasto;2019-01-01
+18;02;01;5;Brzozów;obszar wiejski;2019-01-01
+18;02;02;2;Domaradz;gmina wiejska;2019-01-01
+18;02;03;2;Dydnia;gmina wiejska;2019-01-01
+18;02;04;2;Haczów;gmina wiejska;2019-01-01
+18;02;05;2;Jasienica Rosielna;gmina wiejska;2019-01-01
+18;02;06;2;Nozdrzec;gmina wiejska;2019-01-01
+18;03;;;dębicki;powiat;2019-01-01
+18;03;01;1;Dębica;gmina miejska;2019-01-01
+18;03;02;4;Brzostek;miasto;2019-01-01
+18;03;02;5;Brzostek;obszar wiejski;2019-01-01
+18;03;03;2;Czarna;gmina wiejska;2019-01-01
+18;03;04;2;Dębica;gmina wiejska;2019-01-01
+18;03;05;2;Jodłowa;gmina wiejska;2019-01-01
+18;03;06;4;Pilzno;miasto;2019-01-01
+18;03;06;5;Pilzno;obszar wiejski;2019-01-01
+18;03;07;2;Żyraków;gmina wiejska;2019-01-01
+18;04;;;jarosławski;powiat;2019-01-01
+18;04;01;1;Jarosław;gmina miejska;2019-01-01
+18;04;02;1;Radymno;gmina miejska;2019-01-01
+18;04;03;2;Chłopice;gmina wiejska;2019-01-01
+18;04;04;2;Jarosław;gmina wiejska;2019-01-01
+18;04;05;2;Laszki;gmina wiejska;2019-01-01
+18;04;06;2;Pawłosiów;gmina wiejska;2019-01-01
+18;04;07;4;Pruchnik;miasto;2019-01-01
+18;04;07;5;Pruchnik;obszar wiejski;2019-01-01
+18;04;08;2;Radymno;gmina wiejska;2019-01-01
+18;04;09;2;Rokietnica;gmina wiejska;2019-01-01
+18;04;10;2;Roźwienica;gmina wiejska;2019-01-01
+18;04;11;2;Wiązownica;gmina wiejska;2019-01-01
+18;05;;;jasielski;powiat;2019-01-01
+18;05;01;1;Jasło;gmina miejska;2019-01-01
+18;05;02;2;Brzyska;gmina wiejska;2019-01-01
+18;05;03;2;Dębowiec;gmina wiejska;2019-01-01
+18;05;04;2;Jasło;gmina wiejska;2019-01-01
+18;05;05;4;Kołaczyce;miasto;2019-01-01
+18;05;05;5;Kołaczyce;obszar wiejski;2019-01-01
+18;05;06;2;Krempna;gmina wiejska;2019-01-01
+18;05;07;2;Nowy Żmigród;gmina wiejska;2019-01-01
+18;05;08;2;Osiek Jasielski;gmina wiejska;2019-01-01
+18;05;09;2;Skołyszyn;gmina wiejska;2019-01-01
+18;05;11;2;Tarnowiec;gmina wiejska;2019-01-01
+18;06;;;kolbuszowski;powiat;2019-01-01
+18;06;01;2;Cmolas;gmina wiejska;2019-01-01
+18;06;02;4;Kolbuszowa;miasto;2019-01-01
+18;06;02;5;Kolbuszowa;obszar wiejski;2019-01-01
+18;06;03;2;Majdan Królewski;gmina wiejska;2019-01-01
+18;06;04;2;Niwiska;gmina wiejska;2019-01-01
+18;06;05;2;Raniżów;gmina wiejska;2019-01-01
+18;06;06;2;Dzikowiec;gmina wiejska;2019-01-01
+18;07;;;krośnieński;powiat;2019-01-01
+18;07;01;2;Chorkówka;gmina wiejska;2019-01-01
+18;07;02;4;Dukla;miasto;2019-01-01
+18;07;02;5;Dukla;obszar wiejski;2019-01-01
+18;07;03;4;Iwonicz-Zdrój;miasto;2019-01-01
+18;07;03;5;Iwonicz-Zdrój;obszar wiejski;2019-01-01
+18;07;04;4;Jedlicze;miasto;2019-01-01
+18;07;04;5;Jedlicze;obszar wiejski;2019-01-01
+18;07;05;2;Korczyna;gmina wiejska;2019-01-01
+18;07;06;2;Krościenko Wyżne;gmina wiejska;2019-01-01
+18;07;07;2;Miejsce Piastowe;gmina wiejska;2019-01-01
+18;07;08;4;Rymanów;miasto;2019-01-01
+20;;;;PODLASKIE;województwo;2019-01-01
+20;01;;;augustowski;powiat;2019-01-01
+20;01;01;1;Augustów;gmina miejska;2019-01-01
+20;01;02;2;Augustów;gmina wiejska;2019-01-01
+20;01;03;2;Bargłów Kościelny;gmina wiejska;2019-01-01
+20;01;04;4;Lipsk;miasto;2019-01-01
+20;01;04;5;Lipsk;obszar wiejski;2019-01-01
+20;01;05;2;Nowinka;gmina wiejska;2019-01-01
+20;01;06;2;Płaska;gmina wiejska;2019-01-01
+20;01;07;2;Sztabin;gmina wiejska;2019-01-01
+20;02;;;białostocki;powiat;2019-01-01
+20;02;01;4;Choroszcz;miasto;2019-01-01
+20;02;01;5;Choroszcz;obszar wiejski;2019-01-01
+20;02;02;4;Czarna Białostocka;miasto;2019-01-01
+20;02;02;5;Czarna Białostocka;obszar wiejski;2019-01-01
+20;02;03;2;Dobrzyniewo Duże;gmina wiejska;2019-01-01
+20;02;04;2;Gródek;gmina wiejska;2019-01-01
+20;02;05;2;Juchnowiec Kościelny;gmina wiejska;2019-01-01
+20;02;06;4;Łapy;miasto;2019-01-01
+20;02;06;5;Łapy;obszar wiejski;2019-01-01
+20;02;07;4;Michałowo;miasto;2019-01-01
+20;02;07;5;Michałowo;obszar wiejski;2019-01-01
+20;02;08;2;Poświętne;gmina wiejska;2019-01-01
+20;02;09;4;Supraśl;miasto;2019-01-01
+20;02;09;5;Supraśl;obszar wiejski;2019-01-01
+20;02;10;4;Suraż;miasto;2019-01-01
+20;02;10;5;Suraż;obszar wiejski;2019-01-01
+20;02;11;2;Turośń Kościelna;gmina wiejska;2019-01-01
+20;02;12;4;Tykocin;miasto;2019-01-01
+20;02;12;5;Tykocin;obszar wiejski;2019-01-01
+20;02;13;4;Wasilków;miasto;2019-01-01
+20;02;13;5;Wasilków;obszar wiejski;2019-01-01
+20;02;14;4;Zabłudów;miasto;2019-01-01
+20;02;14;5;Zabłudów;obszar wiejski;2019-01-01
+20;02;15;2;Zawady;gmina wiejska;2019-01-01
+20;03;;;bielski;powiat;2019-01-01
+20;03;01;1;Bielsk Podlaski;gmina miejska;2019-01-01
+20;03;02;1;Brańsk;gmina miejska;2019-01-01
+20;03;03;2;Bielsk Podlaski;gmina wiejska;2019-01-01
+20;03;04;2;Boćki;gmina wiejska;2019-01-01
+20;03;05;2;Brańsk;gmina wiejska;2019-01-01
+20;03;06;2;Orla;gmina wiejska;2019-01-01
+20;03;07;2;Rudka;gmina wiejska;2019-01-01
+20;03;08;2;Wyszki;gmina wiejska;2019-01-01
+20;04;;;grajewski;powiat;2019-01-01
+20;04;01;1;Grajewo;gmina miejska;2019-01-01
+20;04;02;2;Grajewo;gmina wiejska;2019-01-01
+20;04;03;2;Radziłów;gmina wiejska;2019-01-01
+20;04;04;4;Rajgród;miasto;2019-01-01
+20;04;04;5;Rajgród;obszar wiejski;2019-01-01
+20;04;05;4;Szczuczyn;miasto;2019-01-01
+20;04;05;5;Szczuczyn;obszar wiejski;2019-01-01
+20;04;06;2;Wąsosz;gmina wiejska;2019-01-01
+20;05;;;hajnowski;powiat;2019-01-01
+20;05;01;1;Hajnówka;gmina miejska;2019-01-01
+20;05;02;2;Białowieża;gmina wiejska;2019-01-01
+20;05;03;2;Czeremcha;gmina wiejska;2019-01-01
+20;05;04;2;Czyże;gmina wiejska;2019-01-01
+20;05;05;2;Dubicze Cerkiewne;gmina wiejska;2019-01-01
+20;05;06;2;Hajnówka;gmina wiejska;2019-01-01
+20;05;07;4;Kleszczele;miasto;2019-01-01
+20;05;07;5;Kleszczele;obszar wiejski;2019-01-01
+20;05;08;2;Narew;gmina wiejska;2019-01-01
+20;05;09;2;Narewka;gmina wiejska;2019-01-01
+20;06;;;kolneński;powiat;2019-01-01
+20;06;01;1;Kolno;gmina miejska;2019-01-01
+20;06;02;2;Grabowo;gmina wiejska;2019-01-01
+20;06;03;2;Kolno;gmina wiejska;2019-01-01
+20;06;04;2;Mały Płock;gmina wiejska;2019-01-01
+20;06;05;4;Stawiski;miasto;2019-01-01
+20;06;05;5;Stawiski;obszar wiejski;2019-01-01
+20;06;06;2;Turośl;gmina wiejska;2019-01-01
+20;07;;;łomżyński;powiat;2019-01-01
+20;07;01;4;Jedwabne;miasto;2019-01-01
+22;;;;POMORSKIE;województwo;2019-01-01
+22;01;;;bytowski;powiat;2019-01-01
+22;01;01;2;Borzytuchom;gmina wiejska;2019-01-01
+22;01;02;4;Bytów;miasto;2019-01-01
+22;01;02;5;Bytów;obszar wiejski;2019-01-01
+22;01;03;2;Czarna Dąbrówka;gmina wiejska;2019-01-01
+22;01;04;2;Kołczygłowy;gmina wiejska;2019-01-01
+22;01;05;2;Lipnica;gmina wiejska;2019-01-01
+22;01;06;4;Miastko;miasto;2019-01-01
+22;01;06;5;Miastko;obszar wiejski;2019-01-01
+22;01;07;2;Parchowo;gmina wiejska;2019-01-01
+22;01;08;2;Studzienice;gmina wiejska;2019-01-01
+22;01;09;2;Trzebielino;gmina wiejska;2019-01-01
+22;01;10;2;Tuchomie;gmina wiejska;2019-01-01
+22;02;;;chojnicki;powiat;2019-01-01
+22;02;01;1;Chojnice;gmina miejska;2019-01-01
+22;02;02;4;Brusy;miasto;2019-01-01
+22;02;02;5;Brusy;obszar wiejski;2019-01-01
+22;02;03;2;Chojnice;gmina wiejska;2019-01-01
+22;02;04;4;Czersk;miasto;2019-01-01
+22;02;04;5;Czersk;obszar wiejski;2019-01-01
+22;02;05;2;Konarzyny;gmina wiejska;2019-01-01
+22;03;;;człuchowski;powiat;2019-01-01
+22;03;01;1;Człuchów;gmina miejska;2019-01-01
+22;03;02;4;Czarne;miasto;2019-01-01
+22;03;02;5;Czarne;obszar wiejski;2019-01-01
+22;03;03;2;Człuchów;gmina wiejska;2019-01-01
+22;03;04;4;Debrzno;miasto;2019-01-01
+22;03;04;5;Debrzno;obszar wiejski;2019-01-01
+22;03;05;2;Koczała;gmina wiejska;2019-01-01
+22;03;06;2;Przechlewo;gmina wiejska;2019-01-01
+22;03;07;2;Rzeczenica;gmina wiejska;2019-01-01
+22;04;;;gdański;powiat;2019-01-01
+22;04;01;1;Pruszcz Gdański;gmina miejska;2019-01-01
+22;04;02;2;Cedry Wielkie;gmina wiejska;2019-01-01
+22;04;03;2;Kolbudy;gmina wiejska;2019-01-01
+22;04;04;2;Pruszcz Gdański;gmina wiejska;2019-01-01
+22;04;05;2;Przywidz;gmina wiejska;2019-01-01
+22;04;06;2;Pszczółki;gmina wiejska;2019-01-01
+22;04;07;2;Suchy Dąb;gmina wiejska;2019-01-01
+22;04;08;2;Trąbki Wielkie;gmina wiejska;2019-01-01
+22;05;;;kartuski;powiat;2019-01-01
+22;05;01;2;Chmielno;gmina wiejska;2019-01-01
+22;05;02;4;Kartuzy;miasto;2019-01-01
+22;05;02;5;Kartuzy;obszar wiejski;2019-01-01
+22;05;03;2;Przodkowo;gmina wiejska;2019-01-01
+22;05;04;2;Sierakowice;gmina wiejska;2019-01-01
+22;05;05;2;Somonino;gmina wiejska;2019-01-01
+22;05;06;2;Stężyca;gmina wiejska;2019-01-01
+22;05;07;2;Sulęczyno;gmina wiejska;2019-01-01
+22;05;08;4;Żukowo;miasto;2019-01-01
+22;05;08;5;Żukowo;obszar wiejski;2019-01-01
+22;06;;;kościerski;powiat;2019-01-01
+22;06;01;1;Kościerzyna;gmina miejska;2019-01-01
+22;06;02;2;Dziemiany;gmina wiejska;2019-01-01
+22;06;03;2;Karsin;gmina wiejska;2019-01-01
+22;06;04;2;Kościerzyna;gmina wiejska;2019-01-01
+24;;;;ŚLĄSKIE;województwo;2019-01-01
+24;01;;;będziński;powiat;2019-01-01
+24;01;01;1;Będzin;gmina miejska;2019-01-01
+24;01;02;1;Czeladź;gmina miejska;2019-01-01
+24;01;03;1;Wojkowice;gmina miejska;2019-01-01
+24;01;04;2;Bobrowniki;gmina wiejska;2019-01-01
+24;01;05;2;Mierzęcice;gmina wiejska;2019-01-01
+24;01;06;2;Psary;gmina wiejska;2019-01-01
+24;01;07;4;Siewierz;miasto;2019-01-01
+24;01;07;5;Siewierz;obszar wiejski;2019-01-01
+24;01;08;1;Sławków;gmina miejska;2019-01-01
+24;02;;;bielski;powiat;2019-01-01
+24;02;01;1;Szczyrk;gmina miejska;2019-01-01
+24;02;02;2;Bestwina;gmina wiejska;2019-01-01
+24;02;03;2;Buczkowice;gmina wiejska;2019-01-01
+24;02;04;4;Czechowice-Dziedzice;miasto;2019-01-01
+24;02;04;5;Czechowice-Dziedzice;obszar wiejski;2019-01-01
+24;02;05;2;Jasienica;gmina wiejska;2019-01-01
+24;02;06;2;Jaworze;gmina wiejska;2019-01-01
+24;02;07;2;Kozy;gmina wiejska;2019-01-01
+24;02;08;2;Porąbka;gmina wiejska;2019-01-01
+24;02;09;4;Wilamowice;miasto;2019-01-01
+26;;;;ŚWIĘTOKRZYSKIE;województwo;2019-01-01
+26;01;;;buski;powiat;2019-01-01
+26;01;01;4;Busko-Zdrój;miasto;2019-01-01
+26;01;01;5;Busko-Zdrój;obszar wiejski;2019-01-01
+26;01;02;2;Gnojno;gmina wiejska;2019-01-01
+26;01;03;4;Nowy Korczyn;miasto;2019-01-01
+26;01;03;5;Nowy Korczyn;obszar wiejski;2019-01-01
+26;01;04;4;Pacanów;miasto;2019-01-01
+26;01;04;5;Pacanów;obszar wiejski;2019-01-01
+26;01;05;2;Solec-Zdrój;gmina wiejska;2019-01-01
+26;01;06;4;Stopnica;miasto;2019-01-01
+26;01;06;5;Stopnica;obszar wiejski;2019-01-01
+26;01;07;2;Tuczępy;gmina wiejska;2019-01-01
+26;01;08;4;Wiślica;miasto;2019-01-01
+26;01;08;5;Wiślica;obszar wiejski;2019-01-01
+26;02;;;jędrzejowski;powiat;2019-01-01
+26;02;01;2;Imielno;gmina wiejska;2019-01-01
+26;02;02;4;Jędrzejów;miasto;2019-01-01
+26;02;02;5;Jędrzejów;obszar wiejski;2019-01-01
+26;02;03;4;Małogoszcz;miasto;2019-01-01
+26;02;03;5;Małogoszcz;obszar wiejski;2019-01-01
+26;02;04;2;Nagłowice;gmina wiejska;2019-01-01
+26;02;05;2;Oksa;gmina wiejska;2019-01-01
+28;;;;WARMIŃSKO-MAZURSKIE;województwo;2019-01-01
+28;01;;;bartoszycki;powiat;2019-01-01
+28;01;01;1;Bartoszyce;gmina miejska;2019-01-01
+28;01;02;1;Górowo Iławeckie;gmina miejska;2019-01-01
+28;01;03;2;Bartoszyce;gmina wiejska;2019-01-01
+28;01;04;4;Bisztynek;miasto;2019-01-01
+28;01;04;5;Bisztynek;obszar wiejski;2019-01-01
+28;01;05;2;Górowo Iławeckie;gmina wiejska;2019-01-01
+28;01;06;4;Sępopol;miasto;2019-01-01
+28;01;06;5;Sępopol;obszar wiejski;2019-01-01
+28;02;;;braniewski;powiat;2019-01-01
+28;02;01;1;Braniewo;gmina miejska;2019-01-01
+28;02;02;2;Braniewo;gmina wiejska;2019-01-01
+28;02;03;4;Frombork;miasto;2019-01-01
+28;02;03;5;Frombork;obszar wiejski;2019-01-01
+28;02;04;2;Lelkowo;gmina wiejska;2019-01-01
+28;02;05;4;Pieniężno;miasto;2019-01-01
+28;02;05;5;Pieniężno;obszar wiejski;2019-01-01
+28;02;06;2;Płoskinia;gmina wiejska;2019-01-01
+28;02;07;2;Wilczęta;gmina wiejska;2019-01-01
+28;03;;;działdowski;powiat;2019-01-01
+28;03;01;1;Działdowo;gmina miejska;2019-01-01
+28;03;02;2;Działdowo;gmina wiejska;2019-01-01
+28;03;03;2;Iłowo-Osada;gmina wiejska;2019-01-01
+28;03;04;4;Lidzbark;miasto;2019-01-01
+28;03;04;5;Lidzbark;obszar wiejski;2019-01-01
+28;03;05;2;Płośnica;gmina wiejska;2019-01-01
+28;03;06;2;Rybno;gmina wiejska;2019-01-01
+28;04;;;elbląski;powiat;2019-01-01
+28;04;01;2;Elbląg;gmina wiejska;2019-01-01
+28;04;02;2;Godkowo;gmina wiejska;2019-01-01
+28;04;03;2;Gronowo Elbląskie;gmina wiejska;2019-01-01
+28;04;04;2;Markusy;gmina wiejska;2019-01-01
+28;04;05;2;Milejewo;gmina wiejska;2019-01-01
+28;04;06;4;Młynary;miasto;2019-01-01
+30;;;;WIELKOPOLSKIE;województwo;2019-01-01
+30;01;;;chodzieski;powiat;2019-01-01
+30;01;01;1;Chodzież;gmina miejska;2019-01-01
+30;01;02;2;Budzyń;gmina wiejska;2019-01-01
+30;01;03;2;Chodzież;gmina wiejska;2019-01-01
+30;01;04;4;Margonin;miasto;2019-01-01
+30;01;04;5;Margonin;obszar wiejski;2019-01-01
+30;01;05;4;Szamocin;miasto;2019-01-01
+30;01;05;5;Szamocin;obszar wiejski;2019-01-01
+30;02;;;czarnkowsko-trzcianecki;powiat;2019-01-01
+30;02;01;1;Czarnków;gmina miejska;2019-01-01
+30;02;02;2;Czarnków;gmina wiejska;2019-01-01
+30;02;03;2;Drawsko;gmina wiejska;2019-01-01
+30;02;04;4;Krzyż Wielkopolski;miasto;2019-01-01
+30;02;04;5;Krzyż Wielkopolski;obszar wiejski;2019-01-01
+30;02;05;2;Lubasz;gmina wiejska;2019-01-01
+30;02;06;2;Połajewo;gmina wiejska;2019-01-01
+30;02;07;4;Trzcianka;miasto;2019-01-01
+30;02;07;5;Trzcianka;obszar wiejski;2019-01-01
+30;02;08;4;Wieleń;miasto;2019-01-01
+30;02;08;5;Wieleń;obszar wiejski;2019-01-01
+30;03;;;gnieźnieński;powiat;2019-01-01
+30;03;01;1;Gniezno;gmina miejska;2019-01-01
+30;03;02;4;Czerniejewo;miasto;2019-01-01
+30;03;02;5;Czerniejewo;obszar wiejski;2019-01-01
+30;03;03;2;Gniezno;gmina wiejska;2019-01-01
+30;03;04;2;Kiszkowo;gmina wiejska;2019-01-01
+30;03;05;4;Kłecko;miasto;2019-01-01
+30;03;05;5;Kłecko;obszar wiejski;2019-01-01
+32;;;;ZACHODNIOPOMORSKIE;województwo;2019-01-01
+32;01;;;białogardzki;powiat;2019-01-01
+32;01;01;1;Białogard;gmina miejska;2019-01-01
+32;01;02;2;Białogard;gmina wiejska;2019-01-01
+32;01;03;4;Karlino;miasto;2019-01-01
+32;01;03;5;Karlino;obszar wiejski;2019-01-01
+32;01;04;4;Tychowo;miasto;2019-01-01
+32;01;04;5;Tychowo;obszar wiejski;2019-01-01
+32;02;;;choszczeński;powiat;2019-01-01
+32;02;01;2;Bierzwnik;gmina wiejska;2019-01-01
+32;02;02;4;Choszczno;miasto;2019-01-01
+32;02;02;5;Choszczno;obszar wiejski;2019-01-01
+32;02;03;4;Drawno;miasto;2019-01-01
+32;02;03;5;Drawno;obszar wiejski;2019-01-01
+32;02;04;2;Krzęcin;gmina wiejska;2019-01-01
+32;02;05;4;Pełczyce;miasto;2019-01-01
+32;02;05;5;Pełczyce;obszar wiejski;2019-01-01
+32;02;06;4;Recz;miasto;2019-01-01
+32;02;06;5;Recz;obszar wiejski;2019-01-01
+32;03;;;drawski;powiat;2019-01-01
+32;03;01;4;Czaplinek;miasto;2019-01-01
+32;03;01;5;Czaplinek;obszar wiejski;2019-01-01
+32;03;02;4;Drawsko Pomorskie;miasto;2019-01-01
+32;03;02;5;Drawsko Pomorskie;obszar wiejski;2019-01-01
+32;03;03;4;Kalisz Pomorski;miasto;2019-01-01
+32;03;03;5;Kalisz Pomorski;obszar wiejski;2019-01-01
+32;03;05;2;Wierzchowo;gmina wiejska;2019-01-01
+32;03;06;4;Złocieniec;miasto;2019-01-01

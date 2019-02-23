@@ -1,0 +1,19 @@
+<doctrine-mapping xmlns="http://doctrine-project.org/schemas/orm/doctrine-mapping"
+                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                  xsi:schemaLocation="http://doctrine-project.org/schemas/orm/doctrine-mapping
+                          https://www.doctrine-project.org/schemas/orm/doctrine-mapping.xsd">
+
+    <entity name="Webit\Terc\TercEntity" inheritance-type="SINGLE_TABLE" table="terc_entities">
+        <discriminator-column name="entity_type" type="string" length="11" />
+        <discriminator-map>
+            <discriminator-mapping value="voivodeship" class="Webit\Terc\Infrastructure\Doctrine\Voivodeship" />
+            <discriminator-mapping value="district" class="Webit\Terc\Infrastructure\Doctrine\District" />
+            <discriminator-mapping value="borough" class="Webit\Terc\Infrastructure\Doctrine\Borough" />
+        </discriminator-map>
+        <id name="code" column="code" type="string" length="7">
+            <generator strategy="NONE" />
+        </id>
+        <field name="name" column="name" length="32" />
+        <field name="updatedAt" type="date" />
+    </entity>
+</doctrine-mapping>

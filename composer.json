@@ -1,0 +1,34 @@
+{
+    "name": "webit/terc",
+    "description": "Provides polish territorial entities based on GUS TERC file",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["TERC", "TERYT"],
+    "require": {
+        "php": ">=7.1",
+        "doctrine/cache": "^1.8.0"
+    },
+    "require-dev": {
+        "ext-pdo_sqlite": "*",
+        "doctrine/orm": "^2.6.0",
+        "phpunit/phpunit": "^7.3.2"
+    },
+    "suggest": {
+        "doctrine/orm": "For Doctrine ORM infrastructure support."
+    },
+    "autoload": {
+        "psr-4": {
+            "Webit\\Terc\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Webit\\Terc\\": "tests/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.x-dev"
+        }
+    }
+}
